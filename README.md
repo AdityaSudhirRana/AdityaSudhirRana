@@ -1,72 +1,71 @@
-<h1 align="center">Hey, I'm Aditya Rana 👋</h1>
-<p align="center">Aspiring Senior Software Architect • Backend & System Design Learner • AI + PHP + DevOps Explorer</p>
+<h1 align="center">Aditya Rana</h1>
+<p align="center"><strong>Aspiring Software Architect | Backend & System Engineering Enthusiast | Full-Control Builder</strong></p>
 
 ---
 
-### 🚀 What I'm Doing
-- Crafting a fully-custom eCommerce system (no paid plugins, full source control)
-- Diving deep into PHP (real architectures, not just syntax)
-- Building SaaS ideas and scaling knowledge
-- Learning design patterns, system design, and architect-level thinking
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+<div style="width: 48%; min-width: 300px;">
+
+### 👤 About Me
+Hi, I'm Aditya.  
+I love building systems that I fully understand, control, and optimize.  
+Currently working on eCommerce architectures, SaaS foundations, and deep PHP backend expertise.
+
+I believe in craftsmanship, simplicity, and architecture-first thinking.
 
 ---
 
-### 🛠️ Tech Stack & Interests
-
-**Backend:** PHP (OOP & procedural), MySQL  
-**Frontend:** HTML, CSS, JS  
-**Tools:** VS Code, Git, XAMPP, cPanel, SSH  
-**Currently Learning:** Advanced PHP, scalable architectures, automation, AI integration  
-**Interests:** System engineering, high-performance backend design, full-control software development
+### 🛠 Tech Skills
+• PHP  
+• MySQL  
+• JavaScript  
+• Python  
+• HTML & CSS  
+• WordPress & WooCommerce  
+• Git & GitHub  
+• Server-side Ops (cPanel, SSH, hosting & deployment)
 
 ---
+
+### 📚 Interests
+• System Design  
+• Backend Engineering  
+• Architecture Patterns  
+• Chess ("Challenge me")  
+Chess Profile: https://www.chess.com/member/aditya-rana
+
+</div>
+
+<div style="width: 48%; min-width: 300px;">
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityarana&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarana&theme=tokyonight" height="160" />
-</p>
+#### Stats (Light / Transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaSudhirRana&show_icons=true&theme=transparent" height="170" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarana&layout=compact&theme=tokyonight" height="160"/>
-</p>
+#### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSudhirRana&layout=compact&theme=transparent" height="170"/>
 
----
+#### Contribution Calendar (1-Year)
+<img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.classic.svg" width="100%" />
 
-### 🧠 Quote I Believe In
-> *“Build for control. Build for scale. Build so the system listens to you.”*
+</div>
+</div>
 
 ---
 
-### 🏗️ Current Projects
-- 🔥 **Self-controlled WooCommerce system**
-- ⚙️ **Php-based backend engine for SaaS**
-- 🧾 **Money-Manager app w/ automation**
-- 🌐 **willalwaysbe.com** sentimental memorial project
+### 🌐 Connect With Me
+
+| Platform | Link |
+|--------|------|
+| Email | **aditya.rana@outlook.in** |
+| LinkedIn | https://www.linkedin.com/in/aditya-s-rana/ |
+| Instagram | https://www.instagram.com/aditya.s.rana/ |
+| StackOverflow | https://stackoverflow.com/users/14016667/aditya-rana |
+| Dev.to | https://dev.to/adityasrana |
+| Web | https://aditya-rana.w3spaces.com |
 
 ---
 
-### 📎 Cool Metrics & Visitors
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adityarana&style=flat-square&color=blue" />
-</p>
-
----
-
-### 🐍 Contribution Snake (Because why not)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-### 🤝 Connect
-- Email: *add here*
-- LinkedIn: *add here*  
-- Portfolio (soon): willalwaysbe.com
-
----
-
-<p align="center"><b>Learning. Building. Architecting my future.</b></p>
+<p align="center"><strong>"Build quietly. Let the systems you create speak for you."</strong></p>
