@@ -1,71 +1,33 @@
-<h1 align="center">Aditya Rana</h1>
-<p align="center"><strong>Aspiring Software Architect | Backend & System Engineering Enthusiast | Full-Control Builder</strong></p>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/aditya-s-rana/">Aditya Rana</a></h1>
 
----
+<img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Profile Image" width="300"/>
 
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+- Languages: PHP, Python, Javascript, HTML, SQL <br>
+- Email Id: [aditya.rana@outlook.in](mailto:aditya.rana@outlook.in) <br>
+- About Me: Creating solutions and showcasing here! <br>
+- **Location:** Mumbai, India <br>
+- **Always Learning :)** <br>
 
-<div style="width: 48%; min-width: 300px;">
+<br>
+<br>
 
-### 👤 About Me
-Hi, I'm Aditya.  
-I love building systems that I fully understand, control, and optimize.  
-Currently working on eCommerce architectures, SaaS foundations, and deep PHP backend expertise.
-
-I believe in craftsmanship, simplicity, and architecture-first thinking.
-
----
-
-### 🛠 Tech Skills
-• PHP  
-• MySQL  
-• JavaScript  
-• Python  
-• HTML & CSS  
-• WordPress & WooCommerce  
-• Git & GitHub  
-• Server-side Ops (cPanel, SSH, hosting & deployment)
-
----
-
-### 📚 Interests
-• System Design  
-• Backend Engineering  
-• Architecture Patterns  
-• Chess ("Challenge me")  
-Chess Profile: https://www.chess.com/member/aditya-rana
-
+<h2 align="left"> Github Stats: </h2>
+<div class="first-row">
+  <a href="https://github.com/AdityaSudhirRana/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaSudhirRana&theme=transparent&show_icons=true&commits_year=2025&rank_icon=github" />
+  </a>
+  <!-- <a href="https://github.com/AdityaSudhirRana/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSudhirRana&layout=compact&langs_count=8&card_width=320" />
+  </a> -->
 </div>
 
-<div style="width: 48%; min-width: 300px;">
+<br>
 
-### 📊 GitHub Analytics
-
-#### Stats (Light / Transparent)
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaSudhirRana&show_icons=true&theme=transparent" height="170" />
-
-#### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSudhirRana&layout=compact&theme=transparent" height="170"/>
-
-#### Contribution Calendar (1-Year)
-<img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.classic.svg" width="100%" />
-
-</div>
-</div>
-
----
-
-### 🌐 Connect With Me
-
-| Platform | Link |
-|--------|------|
-| Email | **aditya.rana@outlook.in** |
-| LinkedIn | https://www.linkedin.com/in/aditya-s-rana/ |
-| Instagram | https://www.instagram.com/aditya.s.rana/ |
-| StackOverflow | https://stackoverflow.com/users/14016667/aditya-rana |
-| Dev.to | https://dev.to/adityasrana |
-| Web | https://aditya-rana.w3spaces.com |
-
----
-
-<p align="center"><strong>"Build quietly. Let the systems you create speak for you."</strong></p>
+<!-- <div class="second-row">
+  <a href="https://github.com/AdityaSudhirRana/AdityaSudhirRana">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaSudhirRana&repo=AdityaSudhirRana" />
+  </a>
+  <a href="https://github.com/AdityaSudhirRana/Money-Manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaSudhirRana&repo=Money-Manager" />
+  </a>
+</div> -->
