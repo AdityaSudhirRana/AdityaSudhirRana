@@ -48,3 +48,7 @@
     <img src="https://komarev.com/ghpvc/?username=AdityaSudhirRana&style=flat-square&color=blue" />
   </a>
 </div>
+<br>
+<br>
+
+<p align="center"><strong>"A foolish is the one who can become the smartest"</strong></p>
